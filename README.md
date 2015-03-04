@@ -5,9 +5,9 @@ This is my edit of the default theme for [Miniflux](https://github.com/miniflux/
 
 Screenshots
 -----------
-[!Unread Items Screenshot](unread_scrot.png)
-[!Item Screenshot](item_scrot.png)
-[!History Screenshot](history_scrot.png)
+![Unread Items Screenshot](unread_scrot.png)
+![Item Screenshot](item_scrot.png)
+![History Screenshot](history_scrot.png)
 
 License
 -------
