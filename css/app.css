@@ -19,7 +19,7 @@ body {
     padding-left: 10px;
     padding-right: 10px;
     margin-bottom: 30px;
-    max-width: 780px;
+    max-width: 770px;
     color: #333;
     font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
     text-rendering: optimizeLegibility;
@@ -458,7 +458,7 @@ nav .active a {
 
 .feed-last-checked {
     color: brown;
-    font-size: 0.7em;
+    font-size: 0.8em;
     font-weight: normal;
 }
 
@@ -478,6 +478,9 @@ nav .active a {
 /*    border: 1px solid #ddd;
     border-style: none none solid none; */
     border: none;
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 35em;
     margin-bottom: 10px;
     padding: 5px;
     padding-bottom: 15px;
@@ -494,7 +497,7 @@ nav .active a {
 }
 
 .items h2 {
-    font-size: 100%;
+    font-size: 1em;
     margin: 0;
     padding: 0;
     padding-bottom: 4px;
@@ -513,7 +516,7 @@ nav .active a {
 .item-menu,
 .items .preview {
     color: #555;
-    font-size: 70%;
+    font-mize: 70%;
 }
 
 .items .preview {
@@ -546,6 +549,9 @@ nav .active a {
     font-family: Georgia, serif;
     line-height: 1.6em;
     font-size: 1.1em;
+    margin-right: auto;
+    margin-left: auto;
+    max-width: 35em;
 }
 
 .item h2,
@@ -646,6 +652,7 @@ ul.item-infos {
     padding: 0;
     padding-top: 2px;
     color: #aaa;
+    font-size: 0.8em;
 }
 
 .item-menu li,
@@ -770,10 +777,14 @@ iframe {
 #config-form {
     border-left: none;
     padding: 0;
+    max-width: 35em;
+    margin-left: auto;
+    margin-right: auto;
 }
 
 #config-form h3 {
-    border-bottom: 1px dotted #ccc;
+    /*border-bottom: 1px dotted #ccc;*/
+    border: none;
 }
 
 .options {
