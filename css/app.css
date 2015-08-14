@@ -563,6 +563,7 @@ nav .active a {
 .item ul,
 .item p {
     margin-top: 15px;
+    text-align: left;
 }
 
 .item p {
@@ -575,7 +576,7 @@ nav .active a {
 }
 
 #item-content {
-    font-size: 1.1em;
+    font-size: 1em;
 }
 
 #item-content[dir="rtl"] blockquote {
@@ -620,12 +621,14 @@ nav .active a {
 .item nav a,
 .item nav a:visited {
     color: #333;
-    font-family: sans-serif;
+    font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    font-size: 0.9em;
 }
 
 .item nav {
     width: 100%;
 }
+
 
 .item nav.bottom {
     border-top: 1px dotted #ddd;
@@ -638,6 +641,7 @@ nav .active a {
     display: block;
     float: left;
 }
+
 
 .nav-right {
     text-align: right;

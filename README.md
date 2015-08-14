@@ -1,7 +1,7 @@
 Mir theme for Miniflux
 ======================
 
-This is my edit of the default theme for [Miniflux](https://github.com/miniflux/miniflux), a minimalist libre RSS feed reader. It's design goals are peace, simplicity, and cleanliness. _Mir_ means peace in many Slavic languages.
+This is my edit of the default theme for [Miniflux](https://github.com/miniflux/miniflux), a minimalist libre RSS feed reader. My goal is to make it even more minimalist, and easier to read. _Mir_ means peace in many Slavic languages.
 
 Screenshots
 -----------
